@@ -1,1 +1,1 @@
-# node-server
+﻿# node-server在localhost:9090中输入对应的文件名，例如“/test.html”,转到相应的页面,如果没有找到就会出现404的报错
